@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Természeti környezet",
+      "body": "Természeti környezete gazdag és változatos, hatalmas energia forráskészlettel rendelkezik, és azokat intelligens módon aknázzák ki, ami virágzó nemzetté teszi ezt a népet. A törvények értelmében, minden lakó és látogató hozzáférhet minden természeti erőforráshoz, akár az erdőkben, akár a tengeren, ott sétálhatnak és úszhatnak, ahol csak akarnak.",
+      "img": "nature.png"
+    },
+    {
+      "title": "Társadalom és életmód",
+      "body": "A lakosság csaknem 100%-a rendelkezik nagysebességű internet kapcsolattal. 5-ből 4 embernek van hajója. Az erdőket nem irtják. Tisztaság mindenhol. Becsületkasszás zöldség- és gyümölcsstandok. A csalás elfogadhatatlan. Az emberek akár 10 évre előre tervezhetik az életüket. A visszaeső bűnözők aránya csak 20%.",
+      "img": "society.png"
+    },
+    {
+      "title": "Gazdaság és jólét",
+      "body": "Norvégia az egyik leggazdagabb ország. A jólétet nem rendítette meg sem az olajár csökkenése, sem a valuta gyengülése. A bérkülönbségek kicsik, a férfiak és nők foglalkoztatása magas. Az ország pozitívan viszonyult a pénzügyi válsághoz. A levegő és víz tiszta, ipari szabályozás kiváló.",
+      "img": "economy.jpg"
+    },
+    {
+      "title": "Olajalap és gazdasági stabilitás",
+      "body": "A norvég állam 1990-ben létrehozta az Állami Nyugdíjalapot, amit olajalapnak hívnak. Ez a világ legnagyobb szuverén alapja, értéke 2024 márciusában 14 294 milliárd norvég korona. Az alap célja a jövő generációk jólétének biztosítása. 65%-a részvényekbe van fektetve világszerte.",
+      "img": "oilfund.jpg"
+    },
+    {
+      "title": "Munkaerőpiac és fizetések",
+      "body": "A lakosság 3/4-e folyamatosan foglalkoztatott. A várható élettartam 82 év. 2024-ben az átlagkereset 59 370 NOK volt, ami kb. 4 947 eurónak felel meg. A külföldiek számára nehéz munkát találni, mivel a piac zárt és szabályozott.",
+      "img": "work.jpg"
+    },
+    {
+      "title": "Energia és ipar",
+      "body": "Norvégia élen jár az energiaexportban. Víz-, szél- és napenergiát hasznosítanak. Az Északi-tengeren 70 olajfúró platform működik. Az ipar minden ágazatát érinti. Az ország szigorú környezetvédelmi és ipari előírásokat alkalmaz.",
+      "img": "energy.jpg"
+    },
+    {
+      "title": "Történelem és értékrend",
+      "body": "Norvégiában erős hagyománya van az egyenlőségnek, amely a viking korig nyúlik vissza. A nyereséget igazságosan osztották meg. Ez a kultúra a mai gazdaságban is tükröződik.",
+      "img": "vikings.jpg"
+    }
+  ]
+  
