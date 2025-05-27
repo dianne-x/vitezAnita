@@ -168,6 +168,6 @@ Az img mappában tároljuk a képeket, amelyek a JSON fájlban meg vannak adva. 
 ## script az indexben
 ## boostrap src az indexben
 ## angular src az indexben
-## kepek helyenek pontos megadasa
+## kepek helyenek pontos megadasa img/
 
 puszi
