@@ -1,8 +1,8 @@
-# vitezAnita
+# vitezAnita || UNFINISHED AF
 land of war
 
 
-Here are several websites where you can convert MySQL scripts to MSSQL (SQL Server) scripts:
+# mysql to mssql (i have not visited any of the sites yet)
 
 1.    [SQLines Online Converter](https://sqlines.com/online)  
   - Free online tool to convert SQL scripts between different databases, including MySQL to SQL Server.
@@ -164,10 +164,10 @@ Kód:
 Az img mappában tároljuk a képeket, amelyek a JSON fájlban meg vannak adva. Ezeket az AngularJS dinamikusan tölti be az img HTML elem src attribútumába.
 
 
-FONTOS:
-script az indexben
-boostrap src az indexben
-angular src az indexben
-kepek helyenek pontos megadasa
+# FONTOS:
+## script az indexben
+## boostrap src az indexben
+## angular src az indexben
+## kepek helyenek pontos megadasa
 
 puszi
