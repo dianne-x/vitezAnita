@@ -21,8 +21,24 @@ land of war
 
 Let me know if you need help using any of these tools!
 
+## ------------------------------------------
+## pelda milyenre kell formazni
 
+CREATE DATABASE sample_db;
+go
 
+USE sample_db;
+
+go
+CREATE TABLE users (
+    id INT IDENTITY PRIMARY KEY,
+    username VARCHAR(50) NOT NULL UNIQUE,
+    email VARCHAR(100),
+    created_at DATETIME2(0) DEFAULT GETDATE()
+)
+go
+
+## ------------------------------------------
 
 Angular jaw(mewing guide)
 
